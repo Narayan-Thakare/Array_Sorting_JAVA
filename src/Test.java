@@ -5,7 +5,7 @@ public class Test {
 
 static int indexOf(int array[],int find){
 
-
+return -1;
 }
 
 	

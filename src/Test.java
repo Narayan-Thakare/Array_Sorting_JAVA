@@ -1,6 +1,14 @@
 
 public class Test {
 
+
+
+static int indexOf(int array[],int find){
+
+
+}
+
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		

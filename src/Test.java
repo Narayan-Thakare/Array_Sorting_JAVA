@@ -8,6 +8,7 @@ static int indexOf(int array[],int find){
 return -1;
 }
 
+
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
